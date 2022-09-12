@@ -1,14 +1,15 @@
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/e-commerce&target_branch=14.0)
-[![Build Status](https://travis-ci.com/OCA/e-commerce.svg?branch=14.0)](https://travis-ci.com/OCA/e-commerce)
+[![Pre-commit Status](https://github.com/OCA/e-commerce/actions/workflows/pre-commit.yml/badge.svg?branch=14.0)](https://github.com/OCA/e-commerce/actions/workflows/pre-commit.yml?query=branch%3A14.0)
+[![Build Status](https://github.com/OCA/e-commerce/actions/workflows/test.yml/badge.svg?branch=14.0)](https://github.com/OCA/e-commerce/actions/workflows/test.yml?query=branch%3A14.0)
 [![codecov](https://codecov.io/gh/OCA/e-commerce/branch/14.0/graph/badge.svg)](https://codecov.io/gh/OCA/e-commerce)
 [![Translation Status](https://translation.odoo-community.org/widgets/e-commerce-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/e-commerce-14-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
 
-# e-commerce
+# Odoo E-Commerce Modules
 
-TODO: add repo description.
+Modules aiming to support e-commerce specific needs. This includes all the new website_sale related modules.
 
 <!-- /!\ do not modify below this line -->
 
@@ -24,6 +25,7 @@ addon | version | maintainers | summary
 [product_template_multi_link_date_span](product_template_multi_link_date_span/) | 14.0.1.1.0 |  | Add an optional date span for when a link is active.
 [product_variant_multi_link](product_variant_multi_link/) | 14.0.1.1.0 |  | Product Multi Links (Variant)
 [website_sale_attribute_filter_form_submit](website_sale_attribute_filter_form_submit/) | 14.0.1.0.0 |  | Allow to apply manually the filters on the e-commerce
+[website_sale_attribute_filter_multiselect](website_sale_attribute_filter_multiselect/) | 14.0.1.0.0 |  | Add multiselect display type for product and new filter for it
 [website_sale_attribute_filter_price](website_sale_attribute_filter_price/) | 14.0.1.0.0 | [![Tardo](https://github.com/Tardo.png?size=30px)](https://github.com/Tardo) | A price filter for website sale
 [website_sale_b2x_alt_price](website_sale_b2x_alt_price/) | 14.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Display prices with(out) taxes in eCommerce, complementing normal mode
 [website_sale_cart_expire](website_sale_cart_expire/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Expire abandoned carts
