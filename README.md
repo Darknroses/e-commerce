@@ -34,6 +34,7 @@ addon | version | maintainers | summary
 [website_sale_checkout_country_vat](website_sale_checkout_country_vat/) | 14.0.1.0.0 |  | Autocomplete VAT in checkout process
 [website_sale_checkout_skip_payment](website_sale_checkout_skip_payment/) | 14.0.1.2.0 |  | Skip payment for logged users in checkout process
 [website_sale_delivery_group](website_sale_delivery_group/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Provides a way to group shipping methods
+[website_sale_filter_product_brand](website_sale_filter_product_brand/) | 14.0.1.0.0 |  | Website Sale Filter Product Brand
 [website_sale_hide_empty_category](website_sale_hide_empty_category/) | 14.0.1.0.0 |  | Hide any Product Categories that are empty
 [website_sale_hide_price](website_sale_hide_price/) | 14.0.1.1.0 |  | Hide product prices on the shop
 [website_sale_invoice_address](website_sale_invoice_address/) | 14.0.1.0.0 |  | Set e-Commerce sale orders invoice address as in backend
@@ -48,10 +49,12 @@ addon | version | maintainers | summary
 [website_sale_product_description](website_sale_product_description/) | 14.0.1.1.0 |  | Shows custom e-Commerce description for products
 [website_sale_product_detail_attribute_image](website_sale_product_detail_attribute_image/) | 14.0.1.0.0 |  | Display attributes images in shop product detail
 [website_sale_product_detail_attribute_value_image](website_sale_product_detail_attribute_value_image/) | 14.0.1.0.0 |  | Display attributes values images in shop product detail
+[website_sale_product_item_cart_custom_qty](website_sale_product_item_cart_custom_qty/) | 14.0.1.0.1 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Allows to add to cart from product items a custom quantity.
 [website_sale_product_minimal_price](website_sale_product_minimal_price/) | 14.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Display minimal price for products that has variants
 [website_sale_require_legal](website_sale_require_legal/) | 14.0.1.0.0 |  | Force the user to accept legal tems to buy in the web shop
 [website_sale_show_company_data](website_sale_show_company_data/) | 14.0.1.0.0 |  | Show commercial partner data if any
 [website_sale_stock_available](website_sale_stock_available/) | 14.0.1.0.0 |  | Display 'Available to promise' in shop online instead 'Quantity On Hand'
+[website_sale_stock_list_preview](website_sale_stock_list_preview/) | 14.0.1.0.0 |  | Show the stock of products on the product previews
 [website_sale_stock_provisioning_date](website_sale_stock_provisioning_date/) | 14.0.1.0.0 |  | Display provisioning date for a product in shop online
 [website_sale_suggest_create_account](website_sale_suggest_create_account/) | 14.0.1.0.1 |  | Suggest users to create an account when buying in the website
 [website_sale_tax_toggle](website_sale_tax_toggle/) | 14.0.1.0.0 |  | Allow display price in Shop with or without taxes
